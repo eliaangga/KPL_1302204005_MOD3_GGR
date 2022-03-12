@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B92E9A21-2A15-4E1A-8AD0-6AED4B58046D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="buah_1302204005/Program.cs">
+    <Files>
+      <File FileName="buah_1302204005/Program.cs" Line="7" Column="47" />
+      <File FileName="buah_1302204005/kodebuah.cs" Line="33" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul3" expanded="True">
+            <Node name="modul3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.modul3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
